@@ -10,6 +10,7 @@ myFunction();
 
 // let anotherFunction = function (param) {
 //   return param;
+
 // };
 // anotherFunction("Example");
 

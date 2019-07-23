@@ -117,7 +117,7 @@ console.log({ parent });
 console.log(parent.name);
 
 // Log the child's age
-console.log(parent.children[0].name);
+console.log(parent.children[0].age);
 
 // Log the name and age of the grandchild
 console.log(
